@@ -1,0 +1,9 @@
+{
+    "id": "botble/MedyaNossa",
+    "name": "Medya Nossa",
+    "namespace": "Theme\\MedyaNossa\\",
+    "description": "Medya Nossa – Online Flowers Ecommerce",
+    "author": "Medya Nossa",
+    "version": "1.1.0",
+    "required_plugins": []
+}
